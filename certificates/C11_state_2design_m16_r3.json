@@ -1,0 +1,10 @@
+{
+  "schema_version": "AC0-BQAC0-SEP-CERT-1.0",
+  "cert_id": "C11",
+  "mode": "state_2design_and_nlts_bounds",
+  "payload": {
+    "submode": "state_2design_and_stabilizer_gap",
+    "num_qubits_m": 16,
+    "pauli_deg_r": 3
+  }
+}

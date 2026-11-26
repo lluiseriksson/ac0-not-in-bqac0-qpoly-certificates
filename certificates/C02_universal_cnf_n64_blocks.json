@@ -1,0 +1,9 @@
+{
+  "schema_version": "AC0-BQAC0-SEP-CERT-1.0",
+  "cert_id": "C02",
+  "mode": "universal_selector_cnf_and_advice",
+  "payload": {
+    "submode": "disjoint_block_universal_cnf",
+    "input_length_n": 64
+  }
+}

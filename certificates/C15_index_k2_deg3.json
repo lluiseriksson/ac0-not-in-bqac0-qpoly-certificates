@@ -1,0 +1,8 @@
+{
+  "schema_version": "AC0-BQAC0-SEP-CERT-1.0",
+  "cert_id": "C15",
+  "mode": "index_function_exact_degree",
+  "payload": {
+    "address_bits_k": 2
+  }
+}

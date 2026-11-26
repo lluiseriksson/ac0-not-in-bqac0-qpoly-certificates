@@ -1,0 +1,6 @@
+{"version": "1.3.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "ac0_bqac0_sep_cert",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

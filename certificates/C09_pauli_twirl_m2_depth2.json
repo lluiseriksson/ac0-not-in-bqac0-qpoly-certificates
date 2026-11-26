@@ -1,0 +1,10 @@
+{
+  "schema_version": "AC0-BQAC0-SEP-CERT-1.0",
+  "cert_id": "C09",
+  "mode": "pauli_twirling_and_chebyshev_filter",
+  "payload": {
+    "submode": "pauli_twirl_and_peeling_budget",
+    "twirl_qubits_m": 2,
+    "circuit_depth_d": 2
+  }
+}

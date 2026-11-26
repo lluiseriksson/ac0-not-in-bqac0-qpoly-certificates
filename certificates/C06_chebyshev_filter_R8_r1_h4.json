@@ -1,0 +1,16 @@
+{
+  "schema_version": "AC0-BQAC0-SEP-CERT-1.0",
+  "cert_id": "C06",
+  "mode": "pauli_twirling_and_chebyshev_filter",
+  "payload": {
+    "submode": "chebyshev_integer_filter",
+    "width_N": 12,
+    "cutoff_R": 8,
+    "zero_order_r": 1,
+    "chebyshev_deg_h": 4,
+    "approx_eps": [
+      1,
+      100
+    ]
+  }
+}

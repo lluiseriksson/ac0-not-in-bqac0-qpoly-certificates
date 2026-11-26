@@ -1,0 +1,7 @@
+name = "ac0_bqac0_sep_cert"
+version = "0.1.0"
+defaultTargets = ["Ac0Bqac0SepCert"]
+moreLeanArgs = ["-j", "1"]
+
+[[lean_lib]]
+name = "Ac0Bqac0SepCert"
